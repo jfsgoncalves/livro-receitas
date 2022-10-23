@@ -1,4 +1,4 @@
-#Livro de Receitas :candy:
+# Livro de Receitas :candy:
 
 Olá! Bem vindo ao livro de receita:octopus:
 

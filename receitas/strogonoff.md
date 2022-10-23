@@ -1,6 +1,6 @@
-#Strogonoff de Frango
+# Strogonoff de Frango
 
-###Ingredientes
+## Ingredientes
 
 - Frango
 - Tempero
